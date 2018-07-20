@@ -1,0 +1,103 @@
+.color_title{
+    font-size: 15pt;
+    font-weight: 900;
+}
+
+.rock_display_info{
+    width: 150px;
+    display: block;
+    float: left;
+}
+
+.gallery_image{
+    width: 225px;
+    height: 225px;
+    display: block;
+    float: left;
+}
+
+#map-canvas{
+    width: 700px;
+    height: 400px;
+    
+}
+
+.gallery_test{
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.errorSummary{
+    color: red;
+}
+
+.required{
+/*    color: red;*/
+}
+
+.errorMessage{
+    color: red;
+}
+
+.custom_body{
+/*    background: #823935;*/
+}
+
+.custom_container{
+    background: #E3A05D;
+}
+
+.navbar-inner {
+  background-color: #2A3E45; /* background color will be black for all browsers */
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+}
+
+.navbar .nav > li > a {
+/*    float: none;
+    padding: 10px 15px 10px;*/
+    color: white;
+/*    text-decoration: none;
+    text-shadow: 0 1px 0 #ffffff;*/
+}
+
+.navbar .brand {
+/*    display: block;
+    float: left;
+    padding: 10px 20px 10px;
+    margin-left: -20px;
+    font-size: 20px;
+    font-weight: 200;*/
+    color: white;
+/*    text-shadow: 0 1px 0 #ffffff;*/
+}
+
+.logo {
+    height: 200px;   
+}
+
+.index_btn{
+    width: 300px;
+    
+}
+
+.main_tittle{
+    font-size: 20px;
+    background: #2A3E45;
+    color: white;
+    padding:10px 20px;
+    margin-right: 40px;
+}
+/*
+#823935
+#89BEB2
+#C9BA83
+#DED38C
+#DE9C53
+
+#380D31 pruple
+*/

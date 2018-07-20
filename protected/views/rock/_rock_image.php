@@ -1,0 +1,2 @@
+<?php $image = CHtml::image(Yii::app()->baseUrl . '/uploads/'.$data->modelId."_".$data->image,'', array('class'=>'img-rounded','style'=>'max-width : 100px'));?>
+<?php echo CHtml::link($image, array('rock/view', 'id'=>$data->id));?>

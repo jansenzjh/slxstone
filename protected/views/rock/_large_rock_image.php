@@ -1,0 +1,2 @@
+<?php $image = CHtml::image(Yii::app()->baseUrl . '/uploads/'.'large_'.$data->modelId.'_'.$data->image2, '' , array('class'=>'img-rounded'));?>
+<?php echo CHtml::link($image,array('view', 'id'=>$data->id));?>
