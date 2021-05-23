@@ -75,8 +75,8 @@ return array(
                 'db'=>array(
 			'connectionString' => 'mysql:host=yiiStone.db.10744489.hostedresource.com;dbname=yiiStone',
 			'emulatePrepare' => true,
-			'username' => 'yiiStone',
-			'password' => 'Jansen@1988',
+			'username' => 'user',
+			'password' => 'pwd',
 			'charset' => 'utf8',
 		),
             */
@@ -86,8 +86,8 @@ return array(
                 'db'=>array(
 			'connectionString' => 'mysql:host=yiiStonecn.db.10744489.hostedresource.com;dbname=yiiStonecn',
 			'emulatePrepare' => true,
-			'username' => 'yiiStonecn',
-			'password' => 'Jansen@1988',
+			'username' => 'user',
+			'password' => 'pwd',
 			'charset' => 'utf8',
 		),
             */
